@@ -16,3 +16,4 @@
   - npm install 
   - npm run start
   
+<img width="1294" alt="Screenshot 2021-05-16 at 11 36 34" src="https://user-images.githubusercontent.com/22214108/118392810-1f0e6300-b644-11eb-88f0-c3479d781172.png">
