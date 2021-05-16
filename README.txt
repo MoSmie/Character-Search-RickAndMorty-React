@@ -15,12 +15,6 @@
 - cd client 
   - npm install 
   - npm run start
-
-
-
-
-<img width="947" alt="landing" src="https://user-images.githubusercontent.com/22214108/115552369-ed101800-a2b4-11eb-97d5-5a76182510f0.png">
-
-<img width="971" alt="RecipeView" src="https://user-images.githubusercontent.com/22214108/115552062-868afa00-a2b4-11eb-9f1f-f69b9bf92f0b.png">
-
-<img width="951" alt="formPage" src="https://user-images.githubusercontent.com/22214108/115552107-930f5280-a2b4-11eb-99d1-1f6fb03845ce.png">
+  
+  
+<img width="1294" alt="Screenshot 2021-05-16 at 11 36 34" src="https://user-images.githubusercontent.com/22214108/118392677-6d6f3200-b643-11eb-9482-5c9dd0f35229.png">
