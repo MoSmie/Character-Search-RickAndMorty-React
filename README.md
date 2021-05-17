@@ -11,7 +11,7 @@
 - Backend: The Rick and Morty API is a RESTful and GraphQL AP created by Justin Roiland and Dan Harmon for Adult Swim. https://rickandmortyapi.com/  
 
 
-### To run the application, please execute following comments
+### To run the application, please execute following commands:
 - cd client 
   - npm install 
   - npm run start
