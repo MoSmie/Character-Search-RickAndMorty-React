@@ -18,4 +18,8 @@
   
 
 
-<img width="1294" alt="landing" src="https://user-images.githubusercontent.com/22214108/118392810-1f0e6300-b644-11eb-88f0-c3479d781172.png">
+<img width="947" alt="landing" src="https://user-images.githubusercontent.com/22214108/115552369-ed101800-a2b4-11eb-97d5-5a76182510f0.png">
+
+<img width="971" alt="RecipeView" src="https://user-images.githubusercontent.com/22214108/115552062-868afa00-a2b4-11eb-9f1f-f69b9bf92f0b.png">
+
+<img width="951" alt="formPage" src="https://user-images.githubusercontent.com/22214108/115552107-930f5280-a2b4-11eb-99d1-1f6fb03845ce.png">
